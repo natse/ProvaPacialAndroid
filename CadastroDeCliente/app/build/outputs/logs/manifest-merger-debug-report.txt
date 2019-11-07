@@ -1,0 +1,227 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\15fa3c29d0be4f68cf1906d4d150e620\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\3080b8479dec7d0d514856b8fea37d33\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\f72567212fd5201d58624e73b6293e2d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-16.0.1.aar\b140bd3863fe4fa489a85229c8b57852\AndroidManifest.xml:2:1-8:12
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-floatingactionbutton-1.3.0.aar\d1df4097535bee643bf08e1f6699bd90\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-connection-16.0.1.aar\472e0952fe4a5b137808fbdf03c7fdfe\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.0.0.aar\1ae24aafb5b6984678ad0b1dfe28a3db\AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-15.0.1.aar\22b06a5dd21840f590510309e67586c1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\447e9c1cf513791efd2e8876719d1917\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\9d9f4a5a75f04e7ebeb19b3b35eb72e7\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\2bcf5c82c05fe1a7e62c598bac9cf439\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\3abe546360873640be5303c8ac2723c8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\32af22013bd53cb517958b36850238a9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\15402c6f449754b60a766e9794ddbd21\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\dc05b8605da98e24f440a37a0f00f2dd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\80c3b2cde490fa8c736d1efcede9d23c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\57791c5412398eb6e866d7b64466acd5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\9dab2efd666573dfe0b68ba80646af1d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\91ad879ebdad8408ab38def7167ce0a1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\a62c3f8af40305205ab020c38206acfd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\4004955e2477fa0127b7971e8fc075e0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\800e58ff0ed383d9f27e32eca704bb31\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\5e125cd1612f67e89ac5d7d705595e70\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\5e93e13f8d242433d17b4521a041d295\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\3b563f1c5117218ba6d90e08417a2288\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\9c0e10c0a6db3bb767c50b5da6a86573\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\5a81125252e5da2782a92bd176891349\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\c99d570dec7f61ae0f06b15f6169ce65\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\a36b0137bb42f7098126b227dfe3c8eb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\182820da62a602039ba1b5ac1056613d\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\62fcf32013787a7516138ae558acce5f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\892fe1d1cef52c0a6aaf57c3b4c96c3a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\13acfb6f0965e930353e76e5117833ae\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\5fca620f907ce6c086ba35c90c404b39\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\1a486a18c49faf7364fa88d6e6f9605d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\09a7e72ec33b8bec307b033a956f2a6c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\7f725aef3f2511e2ecdf5a9d98e56963\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\64e5f9eb1883f0f5ee39085393049177\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\889d76a983c9edb2a5ca1f626584834c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\254609dbf3a6c43b313582cfb755fbcd\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\15fa3c29d0be4f68cf1906d4d150e620\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\15fa3c29d0be4f68cf1906d4d150e620\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\f72567212fd5201d58624e73b6293e2d\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\f72567212fd5201d58624e73b6293e2d\AndroidManifest.xml:9:5-20
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-floatingactionbutton-1.3.0.aar\d1df4097535bee643bf08e1f6699bd90\AndroidManifest.xml:12:5-20
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-floatingactionbutton-1.3.0.aar\d1df4097535bee643bf08e1f6699bd90\AndroidManifest.xml:12:5-20
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.0.0.aar\1ae24aafb5b6984678ad0b1dfe28a3db\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.0.0.aar\1ae24aafb5b6984678ad0b1dfe28a3db\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-15.0.1.aar\22b06a5dd21840f590510309e67586c1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-15.0.1.aar\22b06a5dd21840f590510309e67586c1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\9d9f4a5a75f04e7ebeb19b3b35eb72e7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\9d9f4a5a75f04e7ebeb19b3b35eb72e7\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\c99d570dec7f61ae0f06b15f6169ce65\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\c99d570dec7f61ae0f06b15f6169ce65\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\182820da62a602039ba1b5ac1056613d\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\182820da62a602039ba1b5ac1056613d\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\c99d570dec7f61ae0f06b15f6169ce65\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.francisco.cadastrodecliente.ListaClienteActivity
+ADDED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml:12:19-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.francisco.cadastrodecliente.MainActivity
+ADDED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml:19:9-21:20
+	android:name
+		ADDED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml:19:19-47
+uses-sdk
+INJECTED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\15fa3c29d0be4f68cf1906d4d150e620\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\15fa3c29d0be4f68cf1906d4d150e620\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\3080b8479dec7d0d514856b8fea37d33\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\3080b8479dec7d0d514856b8fea37d33\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\f72567212fd5201d58624e73b6293e2d\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\f72567212fd5201d58624e73b6293e2d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-16.0.1.aar\b140bd3863fe4fa489a85229c8b57852\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-16.0.1.aar\b140bd3863fe4fa489a85229c8b57852\AndroidManifest.xml:6:5-44
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-floatingactionbutton-1.3.0.aar\d1df4097535bee643bf08e1f6699bd90\AndroidManifest.xml:8:5-10:41
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-floatingactionbutton-1.3.0.aar\d1df4097535bee643bf08e1f6699bd90\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-connection-16.0.1.aar\472e0952fe4a5b137808fbdf03c7fdfe\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-connection-16.0.1.aar\472e0952fe4a5b137808fbdf03c7fdfe\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.0.0.aar\1ae24aafb5b6984678ad0b1dfe28a3db\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.0.0.aar\1ae24aafb5b6984678ad0b1dfe28a3db\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-15.0.1.aar\22b06a5dd21840f590510309e67586c1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-15.0.1.aar\22b06a5dd21840f590510309e67586c1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\447e9c1cf513791efd2e8876719d1917\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\447e9c1cf513791efd2e8876719d1917\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\9d9f4a5a75f04e7ebeb19b3b35eb72e7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\9d9f4a5a75f04e7ebeb19b3b35eb72e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\2bcf5c82c05fe1a7e62c598bac9cf439\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\2bcf5c82c05fe1a7e62c598bac9cf439\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\3abe546360873640be5303c8ac2723c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\3abe546360873640be5303c8ac2723c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\32af22013bd53cb517958b36850238a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\32af22013bd53cb517958b36850238a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\15402c6f449754b60a766e9794ddbd21\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\15402c6f449754b60a766e9794ddbd21\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\dc05b8605da98e24f440a37a0f00f2dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\dc05b8605da98e24f440a37a0f00f2dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\80c3b2cde490fa8c736d1efcede9d23c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\80c3b2cde490fa8c736d1efcede9d23c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\57791c5412398eb6e866d7b64466acd5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\57791c5412398eb6e866d7b64466acd5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\9dab2efd666573dfe0b68ba80646af1d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\9dab2efd666573dfe0b68ba80646af1d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\91ad879ebdad8408ab38def7167ce0a1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\91ad879ebdad8408ab38def7167ce0a1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\a62c3f8af40305205ab020c38206acfd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\a62c3f8af40305205ab020c38206acfd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\4004955e2477fa0127b7971e8fc075e0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\4004955e2477fa0127b7971e8fc075e0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\800e58ff0ed383d9f27e32eca704bb31\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\800e58ff0ed383d9f27e32eca704bb31\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\5e125cd1612f67e89ac5d7d705595e70\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\5e125cd1612f67e89ac5d7d705595e70\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\5e93e13f8d242433d17b4521a041d295\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\5e93e13f8d242433d17b4521a041d295\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\3b563f1c5117218ba6d90e08417a2288\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\3b563f1c5117218ba6d90e08417a2288\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\9c0e10c0a6db3bb767c50b5da6a86573\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\9c0e10c0a6db3bb767c50b5da6a86573\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\5a81125252e5da2782a92bd176891349\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\5a81125252e5da2782a92bd176891349\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\c99d570dec7f61ae0f06b15f6169ce65\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\c99d570dec7f61ae0f06b15f6169ce65\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\a36b0137bb42f7098126b227dfe3c8eb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\a36b0137bb42f7098126b227dfe3c8eb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\182820da62a602039ba1b5ac1056613d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\182820da62a602039ba1b5ac1056613d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\62fcf32013787a7516138ae558acce5f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\62fcf32013787a7516138ae558acce5f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\892fe1d1cef52c0a6aaf57c3b4c96c3a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\892fe1d1cef52c0a6aaf57c3b4c96c3a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\13acfb6f0965e930353e76e5117833ae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\13acfb6f0965e930353e76e5117833ae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\5fca620f907ce6c086ba35c90c404b39\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\5fca620f907ce6c086ba35c90c404b39\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\1a486a18c49faf7364fa88d6e6f9605d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\1a486a18c49faf7364fa88d6e6f9605d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\09a7e72ec33b8bec307b033a956f2a6c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\09a7e72ec33b8bec307b033a956f2a6c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\7f725aef3f2511e2ecdf5a9d98e56963\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\7f725aef3f2511e2ecdf5a9d98e56963\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\64e5f9eb1883f0f5ee39085393049177\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\64e5f9eb1883f0f5ee39085393049177\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\889d76a983c9edb2a5ca1f626584834c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\889d76a983c9edb2a5ca1f626584834c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\254609dbf3a6c43b313582cfb755fbcd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\254609dbf3a6c43b313582cfb755fbcd\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\UNIRON\Downloads\CadastroDeCliente\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-connection-16.0.1.aar\472e0952fe4a5b137808fbdf03c7fdfe\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-connection-16.0.1.aar\472e0952fe4a5b137808fbdf03c7fdfe\AndroidManifest.xml:8:22-64
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.0.0.aar\1ae24aafb5b6984678ad0b1dfe28a3db\AndroidManifest.xml:9:9-13:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.0.0.aar\1ae24aafb5b6984678ad0b1dfe28a3db\AndroidManifest.xml:11:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.0.0.aar\1ae24aafb5b6984678ad0b1dfe28a3db\AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.0.0.aar\1ae24aafb5b6984678ad0b1dfe28a3db\AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.0.0.aar\1ae24aafb5b6984678ad0b1dfe28a3db\AndroidManifest.xml:10:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\9d9f4a5a75f04e7ebeb19b3b35eb72e7\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\9d9f4a5a75f04e7ebeb19b3b35eb72e7\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\UNIRON\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\9d9f4a5a75f04e7ebeb19b3b35eb72e7\AndroidManifest.xml:24:13-58

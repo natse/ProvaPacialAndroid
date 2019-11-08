@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\UNIRON\\Downloads\\CadastroDeCliente\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-be\\values-be.xml",
+            "outputFile": "C:\\Users\\UNIRON\\Documents\\Francisco\\ProvaPacialAndroid\\CadastroDeCliente\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-be\\values-be.xml",
             "map": [
                 {
                     "source": "C:\\Users\\UNIRON\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-15.0.1.aar\\9d9f4a5a75f04e7ebeb19b3b35eb72e7\\res\\values-be\\values.xml",
